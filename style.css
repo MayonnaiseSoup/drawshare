@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+body {
+    background-color: #2D2D2D;
+    margin-top: 0px;
+    overflow: hidden;
+}
+
+h1 {
+    font-family: 'Inter', sans-serif;
+    color: #fff;
+    display: inline;
+}
+
+.navbar {
+    font-family: 'Roboto Mono', sans-serif;
+    color: #fff;
+    margin-left: 1rem;
+}
+
+h1, ul, button {
+    display: inline-block;
+    width: auto;
+}
+
+li {
+    display: inline;
+    margin-right: 4rem;
+}
+
+.credit {
+    margin-right: 29rem;
+}
+
+.logo {
+    color: #FA00FF;
+}
+
+button {
+    padding: 10px;
+    background-color: #3988FF;
+    color: #fff;
+    border-radius: 5px;
+    font-family: 'Roboto Mono', sans-serif;
+    border: none;
+    width: 7rem;
+    font-size: 1rem;
+    cursor: url('pencil-solid.ico'), auto;
+}
+
+
+canvas {
+    
+    
+    padding-top: 1rem;
+    margin-left: 0.7rem;
+    background-color: #fff;
+    
+    border-radius: 5px;
+    
+    
+}
+
+ul.a {
+    list-style-image: url('triangle.jpg');
+}
+
+h1 {
+    font-size: 2.2rem;
+}
